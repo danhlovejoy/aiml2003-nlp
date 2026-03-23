@@ -1,0 +1,3 @@
+[submodule "rose-build"]
+	path = rose-build
+	url = https://github.com/danhlovejoy/rose-build.git
